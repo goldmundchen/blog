@@ -3,7 +3,7 @@ published: true
 ---
 ---
 layout: post
-title: Markdown Style Guide
+title: This is my first post
 ---
 
 # This is my first post
