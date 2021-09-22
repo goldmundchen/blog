@@ -1,12 +1,12 @@
 ---
 published: true
 ---
-# This is my first post
-
 ---
 layout: post
 title: Markdown Style Guide
 ---
+
+# This is my first post
 
 This is a demo of all styled elements in Jekyll Now.
 
