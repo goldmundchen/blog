@@ -3,7 +3,12 @@ published: true
 ---
 ---
 layout: post
-title: This is my first post
+title: "My first post"
+date: 2021-10-06
+category: personal
+author: Renaissandro
+tags: [jekyll]
+summary: tbc
 ---
 
 # This is my first post
