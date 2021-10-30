@@ -13,8 +13,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    linkedin: alessandromarkus
-    github:  renaissandro
+    # linkedin: alessandromarkus
+    # github:  renaissandro
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
