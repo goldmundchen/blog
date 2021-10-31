@@ -1,7 +1,7 @@
 title: the singularity is nigh
 author: renaissandro
 description: > # this means to ignore newlines until "show_excerpts:"
- enlightenment is the space between thoughts.
+ enlightenment is the space between thoughts
 url: http://renaissandro.github.io
 baseurl: '/blog'
 show_excerpts: false # set to true to show excerpts on the homepage
