@@ -2,8 +2,6 @@
 layout: post
 title: "This is just another try"
 categories: junk
-author:
-- Alessandro Markus
 meta: "Springfield"
 published: true
 ---
