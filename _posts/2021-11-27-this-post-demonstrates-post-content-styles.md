@@ -4,10 +4,8 @@ title: "This post demonstrates post content styles"
 categories: misc
 meta: "Springfield"
 published: true
+image: /assets/images/ex-machina-garden.jpeg
 ---
-
-<div class="post-content e-content" itemprop="articleBody">
-<p><img src="/blog/assets/images/Ex-Machina-garden.jpeg" alt="image" /></p>
 
 What happens if i just play around in here now? 
 
