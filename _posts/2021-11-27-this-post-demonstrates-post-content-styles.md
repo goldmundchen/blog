@@ -7,7 +7,7 @@ published: true
 image: /assets/images/ex-machina-garden.jpeg
 ---
 
-![alternative text]({{ page.image }})
+![]({{ page.image }})
 
 What happens if i just play around in here now? 
 
