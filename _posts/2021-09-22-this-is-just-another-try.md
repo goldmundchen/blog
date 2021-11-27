@@ -3,9 +3,9 @@ layout: post
 title: "This is just another try"
 categories: junk
 author:
-- Bart Simpson
-- Nelson Mandela Muntz
+- Alessandro Markus
 meta: "Springfield"
+published: true
 ---
 
 # This is my first post
