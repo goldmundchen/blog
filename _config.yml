@@ -1,7 +1,7 @@
 title: the singularity is nigh
 author: renaissandro
 description: > # this means to ignore newlines until "show_excerpts:"
- <h2>Let me just try this once.</h2>
+ enlightenment is the space between thoughts
 url: http://renaissandro.github.io
 baseurl: '/blog'
 show_excerpts: false # set to true to show excerpts on the homepage
@@ -13,14 +13,13 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    linkedin: alessandromarkus
+    github:  renaissandro
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g

@@ -1,17 +1,23 @@
 ---
-published: true
----
----
 layout: post
+<<<<<<< HEAD:_posts/2021-09-22-first-real-post.md
 title: "My first post"
 date: 2021-10-06
 category: personal
 author: Renaissandro
 tags: [jekyll]
 summary: tbc
+=======
+title: "This is just another try"
+categories: junk
+meta: "Springfield"
+published: true
+>>>>>>> 433481c9675b9c9e25c6c33473f8769adddc0fbc:_posts/2021-09-22-this-is-just-another-try.md
 ---
 
 # This is my first post
+
+This is just me messing this article up. 
 
 This is a demo of all styled elements in Jekyll Now.
 
@@ -63,9 +69,18 @@ Syntax highlighting can be used with triple backticks, like so:
 var rawr = ["r", "a", "w", "r"];
 ```
 
+```trial
+This is me just trying to highlight syntax that could be of relevance, probably isn't.
+´´´
+
+Let's just give this another try to not unlearn how to work this out.
+----
+
 Use two trailing spaces  
 on the right  
 to create linebreak tags  
+
+****
 
 Finally, horizontal lines
 
