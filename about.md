@@ -8,4 +8,4 @@ a home for poorly researched ideas that I find myself repeating a lot anyway.
 
 pls tell me, why does vscode take so long to sync? 
 
-let's test this once more. 
+let's test this once more. and once more.
