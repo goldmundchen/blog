@@ -2,7 +2,7 @@
 layout: post
 title: "This post demonstrates post content styles"
 categories: misc
-published: true
+published: false
 ---
 
 <div class="post-content e-content" itemprop="articleBody">
