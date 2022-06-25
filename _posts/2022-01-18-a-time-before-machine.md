@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A time before the machine (Pt I)"
+title: "A time before the machine (Part 1)"
 categories: misc
 published: true
 ---

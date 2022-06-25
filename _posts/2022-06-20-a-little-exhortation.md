@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A little exhortation
+title: Canticle of the birds
 categories: misc
 published: true
 ---
