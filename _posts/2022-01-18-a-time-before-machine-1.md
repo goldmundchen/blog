@@ -4,6 +4,9 @@ title: "A time before the machine (Part 1)"
 categories: misc
 published: true
 ---
+
+<img src='/blog/assets/images/cyberpunk.gif' alt='gif' />
+
 <p>
 I dream of a time before the machine<br>
 Before the gramophone, before Dalí<br>

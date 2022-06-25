@@ -4,6 +4,9 @@ title: "A time before the machine (Part 2)"
 categories: misc
 published: true
 ---
+
+<img src='/blog/assets/images/electric.png' alt='png' />
+
 <p>
 Society has nothing I want, and whether that's boon or bane<br>
 I have little interest in money, pleasure, respect or fame<br>
