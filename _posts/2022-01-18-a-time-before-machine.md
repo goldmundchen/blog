@@ -16,4 +16,4 @@ People exist to eat, sleep and procreate<br>
 Digesting digital palliatives of what they loathe and hate<br>
 
 May synthetic pleasures for empty minds<br>
-Be the wreck of civilisation and the rise of a new divine<br>s
+Be the wreck of civilisation and the rise of a new divine<br>
