@@ -6,7 +6,7 @@ published: true
 ---
 <p>
 <figure>
-    <img src='/blog/assets/images/ohara_koson_cherry_branch.jpeg' alt='image' />
+    <img src='/blog/assets/images/ohara_koson_cherry_branch.jpeg' height="400px" width="400px" alt='image' />
     <figcaption style="text-align: right">Koson Ohara's <a href="https://artvee.com/dl/tits-on-cherry-branch/" target="_blank">"Tits On Cherry Branch"</a> (1900)</figcaption>
 </figure> 
 
