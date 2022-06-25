@@ -6,10 +6,8 @@ published: true
 ---
 <p>
 <figure>
-  <style>{text-align: right;}
-</style>
-    <img src='/blog/assets/images/ohara_koson_cherry_branch.jpeg' width='auto' height='auto' alt='image' />
-    <figcaption id="left">Koson Ohara "Tits On Cherry Branch"</figcaption>
+    <img src='/blog/assets/images/ohara_koson_cherry_branch.jpeg' alt='image' />
+    <figcaption style="text-align: right">Koson Ohara "Tits On Cherry Branch"</figcaption>
 </figure> 
 
 <blockquote>
