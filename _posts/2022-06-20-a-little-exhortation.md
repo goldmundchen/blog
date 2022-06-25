@@ -6,7 +6,7 @@ published: true
 ---
 
 <figure>
-    <img src='/blog/assets/images/ohara_koson_cherry_branch.jpeg' width='200px' height='200px' alt='image' />
+    <img src='/blog/assets/images/ohara_koson_cherry_branch.jpeg' width='auto' height='auto' alt='image' />
     <figcaption>Koson Ohara "Tits On Cherry Branch"</figcaption>
 </figure> 
 
