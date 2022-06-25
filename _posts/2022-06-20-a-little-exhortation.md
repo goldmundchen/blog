@@ -10,8 +10,6 @@ published: true
     <figcaption>Koson Ohara "Tits On Cherry Branch"</figcaption>
 </figure> 
 
-
-
 I believe birds are far superior to us in both strength of spirit and mind,<br>
 for birds's innate strive for freedom to move, speak and form alliances<br>
 is second to none in nature.
