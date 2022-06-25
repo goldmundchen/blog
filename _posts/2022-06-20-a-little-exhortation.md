@@ -34,7 +34,7 @@ driving good people to mental asylum.<br>
 
 Self-imposed cages made of steel, reinforced concrete and curtain walls of glass,<br>
 bringing us closer to heaven yet farther away from it than ever.<br>
-Oh, what irony!<b
+Oh, what irony!
 
 if anything, we should be looking up and around us,<br>
 and learn from those freedom-loving birds dancing,<br>
