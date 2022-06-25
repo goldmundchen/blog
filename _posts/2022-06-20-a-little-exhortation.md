@@ -51,7 +51,7 @@ who would consider modern day cultures and societies claustrophobic.
 I have nothing else to say to you, except for this:<br>
 amongst all values of relevance and meaning of homo sapiens--<br>
 reproduction, survival, truth, love, narrative or progress<br>
---shall freedom to move, think and act, with no harm to others,<br>
+--shall freedom to move, think and act, at no harm to others,<br>
 be at all times your primary goal function and default state of mind.
 
 Hail Freedom! Hail to the birds! 
