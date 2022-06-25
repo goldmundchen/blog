@@ -5,9 +5,7 @@ categories: misc
 published: true
 ---
 
-<body>
-<img src="images/birds.jpeg">
-</body>
+<p><img src="/blog/assets/images/birds.jpeg" alt="image" /></p>
 
 I believe birds are far superior to us in both strength of spirit and mind,<br>
 for birds's innate strive for freedom to move, speak and form alliances<br>
