@@ -5,15 +5,15 @@ categories: misc
 published: true
 ---
 
-I dream of a time before the machine
-Before the gramophone, before Dalí
-Before the radio, before the gun
-Before the newspaper, the phonograph, the film camera rolled into one
+I dream of a time before the machine<br>
+Before the gramophone, before Dalí<br>
+Before the radio, before the gun<br>
+Before the newspaper, the phonograph, the film camera rolled into one<br>
 
-I see the eye in the glass, the brain in the bottle
-Consciousness weakened, curiosity throttled
-People exist to eat, sleep and procreate
-Digesting digital palliatives of what they loathe and hate
+I see the eye in the glass, the brain in the bottle<br>
+Consciousness weakened, curiosity throttled<br>
+People exist to eat, sleep and procreate<br>
+Digesting digital palliatives of what they loathe and hate<br>
 
-May synthetic pleasures for empty minds
-Be the wreck of civilisation and the rise of a new divine
+May synthetic pleasures for empty minds<br>
+Be the wreck of civilisation and the rise of a new divine<br>s
