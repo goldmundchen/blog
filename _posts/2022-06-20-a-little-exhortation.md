@@ -4,24 +4,19 @@ title: A little exhortation
 categories: misc
 published: true
 ---
-
+<p>
 <figure>
+  <style>{text-align: right;}
+</style>
     <img src='/blog/assets/images/ohara_koson_cherry_branch.jpeg' width='auto' height='auto' alt='image' />
-    <figcaption>Koson Ohara "Tits On Cherry Branch"</figcaption>
+    <figcaption id="left">Koson Ohara "Tits On Cherry Branch"</figcaption>
 </figure> 
 
-figure {
-    display: inline-block;
-    border: 1px dotted gray;
-    margin: 20px;
-}
-figure img {
-    vertical-align: top;
-}
-figure figcaption {
-    border: 1px dotted blue;
-    text-align: center;
-}
+<blockquote>
+  <p>“Nature loves courage. You make the commitment and nature will respond to that commitment by removing impossible obstacles. Dream the impossible dream and the world will not grind you under, it will lift you up. This is the trick. This is what all these teachers and philosophers who really counted, who really touched the alchemical gold, this is what they understood. This is the shamanic dance in the waterfall. This is how magic is done. By hurling yourself into the abyss and discovering it's a feather bed.”
+
+― Terence McKenna</p>
+</blockquote>
 
 I believe birds are far superior to us in both strength of spirit and mind,<br>
 for birds's innate strive for freedom to move, speak and form alliances<br>
