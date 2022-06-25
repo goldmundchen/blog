@@ -5,7 +5,12 @@ categories: misc
 published: true
 ---
 
-<p><img src="/blog/assets/images/birds.jpeg" alt="image" /></p>
+<p><img src="/blog/assets/images/birds.jpeg" width="100px" height="100px" alt="image" /></p>
+
+<figure>
+    <img src='/blog/assets/images/birds.jpeg' width='100px' height='100px' alt='image' />
+    <figcaption><a href="https://openai.com/dall-e-2/" target="_blank">Dall-E 2 Variation</a> of Koson Ohara "Tits On Cherry Branch"</figcaption>
+</figure> 
 
 I believe birds are far superior to us in both strength of spirit and mind,<br>
 for birds's innate strive for freedom to move, speak and form alliances<br>
