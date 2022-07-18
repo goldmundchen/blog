@@ -11,7 +11,7 @@ published: true
 Society has nothing I want, and whether that's boon or bane<br>
 I have zero interest in money, pleasure, respect or fame<br>
 I don't want that pathetic thing that passes for power<br>
-I behold the lilies in the field, take what's ours, revenge is sour<br>
+I behold the lilies in the field, will take what's ours; revenge is sour<br>
 </p><p>
 I want to live forever, immerse in VR winter<br>
 Meet superhuman intelligence and pass the great filter<br>
