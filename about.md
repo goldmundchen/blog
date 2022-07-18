@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-hello and welcome. 
-
-why are you here? 
+hello fellow carbon unit
