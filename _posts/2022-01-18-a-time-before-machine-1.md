@@ -5,7 +5,7 @@ categories: misc
 published: true
 ---
 
-<img src='/blog/assets/images/cyberpunk.gif' height="400px" width="400px" alt='gif' />
+<img src='/blog/assets/images/machine-thoughts.jpeg' height="400px" width="400px" alt='gif' />
 
 <p>
 I dream of a time before the machine<br>
