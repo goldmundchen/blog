@@ -7,8 +7,8 @@ published: false
 
 <div class="post-content e-content" itemprop="articleBody">
 <p><img src="/blog/assets/images/Ex-Machina-garden.jpeg" alt="image" /></p>
-
-What happens if i just play around in here now? 
+fdjdjdjf 
+What happens if i just play around in here now?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
