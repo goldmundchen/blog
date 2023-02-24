@@ -5,7 +5,7 @@ categories: misc
 published: true
 ---
 
-<figure style="text-align: center;>
+<figure style="text-align: center;">
 <img src='/blog/assets/images/mars-symbol.png' alt='image' />
 <figcaption style="text-align: right">A stylised spear and shield of Mars. (Also symbol for the male gender.)</figcaption>
 </figure> 
