@@ -1,6 +1,6 @@
 ---
 layout: page
-title: _Reflections_
+title: About
 permalink: /about/
 ---
 
