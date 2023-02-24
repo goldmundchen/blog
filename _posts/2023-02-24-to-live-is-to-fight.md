@@ -26,7 +26,7 @@ That man has ever seen.<br>
 Armed with the spear of Mars,<br>
 And protected by His shield;<br>
 Afoot with the winged sandals of Hermes,<br>
-Which are, as legend has it, made of imperishable gold. <br>
+Mde of imperishable gold. <br>
 </p><p>
 The moonlit sea, the raging storm,<br>
 His will and his domain,<br>
@@ -39,7 +39,7 @@ Forever devoted to the irrepressible forces of life.<br>
 </p><p>
 Indeed, shall no law or word of man stand in his way,<br>
 And may this be his wealth: A spear and shield,<br>
-With which he is destined to rise beyond,<br>
-All serfs who cower at his knees, <br>
-calling him their master and Great King.<br>
+With which he is destined to rise beyond<br>
+All serfs——cowering at his knees<br>
+———Calling upon their master and Great King.<br>
 </p>
