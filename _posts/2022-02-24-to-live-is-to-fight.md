@@ -5,7 +5,7 @@ categories: misc
 published: true
 ---
 
-<img src='/blog/assets/images/machine-thoughts.jpeg' height="396px" width="500px" alt='image' />
+<img src='/blog/assets/images/mars-symbol.png' height="396px" width="500px" alt='image' />
 
 <p><i>
 This free verse has been conceived in response and as antidote to what that, which has defiled most men in ’modern society', who seem incurably infected by what is commonly knownn as the 'woke virus' of the mind.<br>
