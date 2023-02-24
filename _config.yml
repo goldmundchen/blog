@@ -1,8 +1,8 @@
-title: the singularity is nigh
-author: razzkolnikov
+title: Goldmund & Goldilocks
+author: Goldmund
 description: > # this means to ignore newlines until "show_excerpts:"
  just a guy who found a computer
-url: http://razzkolnikov.github.io
+url: http://goldmundchen.github.io
 baseurl: '/blog'
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -14,7 +14,7 @@ minima:
   # generate social links in footer
   social_links:
     linkedin: alessandromarkus
-    github:  razzkolnikov
+    github:  goldmundchen
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
