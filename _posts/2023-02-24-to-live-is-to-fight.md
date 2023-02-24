@@ -4,6 +4,7 @@ title: "To live is to fight"
 categories: misc
 published: true
 ---
+
 <figure>
 <img src='/blog/assets/images/mars-symbol.png' height="396px" width="500px" alt='image' />
 <figcaption style="text-align: right">A stylised spear and shield of Mars. Also symbol for the male gender.</figcaption>
