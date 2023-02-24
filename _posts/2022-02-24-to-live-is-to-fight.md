@@ -1,0 +1,45 @@
+---
+layout: post
+title: "To live is to fight"
+categories: misc
+published: true
+---
+
+<img src='/blog/assets/images/machine-thoughts.jpeg' height="396px" width="500px" alt='image' />
+
+<p><i>
+This free verse has been conceived in response and as antidote to what that, which has defiled most men in ’modern society', who seem incurably infected by what is commonly knownn as the 'woke virus' of the mind.<br>
+</p>
+Life is war, young soldier; and you must stand ready to fight. Don't let yourself be led astray the noble path of man by those unholy forces weakening both spirit and mind. There is still hope.<br>
+</i><p>
+****
+----
+And off he sails, headed into war,<br>
+Mothered by the night and<br>
+Guided by the stars.<br>
+</p><p>
+Upon gales of mighty fury,<br>
+His senses sharp and keen;<br>
+Sailing through the greatest winds,<br>
+That man has ever seen.<br>
+</p><p>
+Armed with the spear of Mars,<br>
+And protected by His shield;<br>
+Afoot with the winged sandals of Hermes,<br>
+Which are, as legend has it, made of imperishable gold. <br>
+</p><p>
+The moonlit sea, the raging storm,<br>
+His will and his domain,<br>
+Bend the sea——oh, God of waves!<br>
+——And guide him through wind and rain.<br>
+ </p><p>
+A disciple of Eros, young God of sexual passion<br>
+And total destruction;<br>
+Forever devoted to the irrepressible forces of life.<br>
+</p><p>
+Indeed, shall no law or word of man stand in his way,<br>
+And may this be his wealth: A spear and shield,<br>
+With which he is destined to rise beyond,<br>
+All serfs who cower at his knees, <br>
+calling him their master and Great King.<br>
+</p>
