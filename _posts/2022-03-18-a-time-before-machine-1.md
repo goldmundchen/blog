@@ -5,8 +5,6 @@ categories: misc
 published: true
 ---
 
-<img src='/blog/assets/images/machine-thoughts.jpeg' style="width: 90%; height: 90%;" alt='image' />
-
 <p>
 I dream of a time before the machine<br>
 Before the gramophone, before Dalí<br>
