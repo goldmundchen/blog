@@ -4,6 +4,11 @@ description: just a guy who found a computer
 url: https://goldmundchen.github.io/blog/about/
 baseurl: '/blog'
 show_excerpts: false # set to true to show excerpts on the homepage
+navigation:
+  - title: About
+    url: /about/
+  - title: Reflections
+    url: /reflections/
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
