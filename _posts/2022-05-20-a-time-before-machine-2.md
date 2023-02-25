@@ -5,7 +5,7 @@ categories: misc
 published: true
 ---
 
-<img src='/blog/assets/images/electric.png' style="display: block; margin: 0 auto; width: 30%; height: 30%;" alt='png' />
+<img src='/blog/assets/images/electric.png' style="display: block; margin: 0 auto; width: 80%; height: 80%;" alt='png' />
 <br><br>
 <p>
 Society has nothing I want, and whether that's boon or bane<br>
