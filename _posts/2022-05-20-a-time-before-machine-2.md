@@ -6,8 +6,8 @@ published: true
 ---
 
 Society has nothing I want———<br>
-And whether that's boon or bane———<br>
-I have zero interest in money,<br>
+And whether that's boon or bane<br>
+———I have zero interest in money,<br>
 Pleasure, respect or fame.<br>
 <p>
 I don't want that pathetic thing,<br>
@@ -16,7 +16,7 @@ I behold the lilies in the field,<br>
 For nature's revenge will be sour.<br>
 </p><p>
 May we live forever———<br>
-Immersed in VR winter————<br>
+Immersed in VR winter———<br>
 Meet superhuman intelligence,<br>
 And pass the great filter.<br>
 </p><p>
