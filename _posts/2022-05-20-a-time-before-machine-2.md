@@ -5,8 +5,6 @@ categories: misc
 published: true
 ---
 
-<br>
-<p>
 Society has nothing I want, and whether that's boon or bane<br>
 I have zero interest in money, pleasure, respect or fame<br>
 I don't want that pathetic thing that passes for power<br>
