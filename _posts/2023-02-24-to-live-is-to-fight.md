@@ -10,7 +10,7 @@ published: true
 <figcaption style="text-align: right">A stylised spear and shield of Mars. (Also symbol for the male gender.)</figcaption>
 </figure> 
 <br><i>
-This free verse has been conceived in response to that, which has defiled most men in ’modern society': who seem incurably infected by what is commonly referred to the 'woke virus' of the mind.<br></i>
+This free verse has been conceived in response to that which has defiled most men in ’modern society': who seem incurably infected by what is commonly referred to the 'woke virus' of the mind.<br></i>
 <p><i>
 Understand this: Life is war, young soldier———and you must stand ready to fight. Don't let yourself be led astray the noble path of man by those unholy forces weakening both spirit and mind. There is still hope.<br></i>
 <hr /></p><p>
