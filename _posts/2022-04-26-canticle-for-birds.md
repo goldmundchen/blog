@@ -5,11 +5,6 @@ categories: misc
 published: true
 ---
 <p>
-<figure>
-    <img src='/blog/assets/images/ohara_koson_cherry_branch.jpeg' alt='image' />
-    <figcaption style="text-align: right">Koson Ohara's <a href="https://artvee.com/dl/tits-on-cherry-branch/" target="_blank">"Tits On Cherry Branch"</a> (1900)</figcaption>
-</figure> 
-
 <blockquote style="font-size: 90%;">
   <p>“Nature loves courage. You make the commitment and nature will respond to that commitment by removing impossible obstacles. Dream the impossible dream and the world will not grind you under, it will lift you up. This is the trick. This is what all these teachers and philosophers who really counted, who really touched the alchemical gold, this is what they understood. This is the shamanic dance in the waterfall. This is how magic is done. By hurling yourself into the abyss and discovering it's a feather bed.”
  
@@ -68,3 +63,9 @@ Reproduction, survival, truth, love, narrative or progress<br>
 Be at all times your primary goal function and default state of mind.
 </p>
 Hail freedom; hail to the birds!
+<br><br>
+
+<figure>
+    <img src='/blog/assets/images/ohara_koson_cherry_branch.jpeg' alt='image' />
+    <figcaption style="text-align: right">Koson Ohara's <a href="https://artvee.com/dl/tits-on-cherry-branch/" target="_blank">"Tits On Cherry Branch"</a> (1900)</figcaption>
+</figure> 
