@@ -6,7 +6,7 @@ published: true
 ---
 
 <figure style="text-align: center;">
-<img src='/blog/assets/images/mars-symbol.png' alt='image' style="display: block; margin: 0 auto; width: 80%; height: 80%;" /> <br>
+<img src='/blog/assets/images/mars-symbol.png' alt='image' style="display: block; margin: 0 auto; width: 30%; height: 30%;" /> <br>
 <figcaption style="text-align: right">A stylised spear and shield of Mars. (Also symbol for the male gender.)</figcaption>
 </figure> 
 <br><i>
