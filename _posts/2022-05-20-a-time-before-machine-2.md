@@ -6,7 +6,7 @@ published: true
 ---
 
 <img src='/blog/assets/images/electric.png' style="display: block; margin: 0 auto; width: 80%; height: 80%;" alt='png' />
-<br><br>
+<br>
 <p>
 Society has nothing I want, and whether that's boon or bane<br>
 I have zero interest in money, pleasure, respect or fame<br>
