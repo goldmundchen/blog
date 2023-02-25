@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Reflections
 permalink: /about/
 ---
-
-## Reflections
 
 I'm waiting in my cold cell———<br>
     ———as the bell begins to chime;<br>
