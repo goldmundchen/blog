@@ -5,7 +5,7 @@ categories: misc
 published: true
 ---
 
-<img src='/blog/assets/images/machine-thoughts.jpeg' style="display: block; margin: 0 auto; width: 80%; height: 80%;" alt='image' />
+<img src='/blog/assets/images/machine-thoughts.jpeg' style="width: 80%; height: 80%;" alt='image' />
 
 <p>
 I dream of a time before the machine<br>
