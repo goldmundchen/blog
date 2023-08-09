@@ -15,30 +15,30 @@ This free verse has been conceived in response to that which has defiled most me
 Understand this: Life is war, young soldier———and you must stand ready to fight. Don't let yourself be led astray of the noble path of man by those unholy forces <i>wokening</i> weakening both spirit and mind. There is still hope.<br></i>
 <hr /></p><p>
 And off he sails, headed into war,<br>
-Mothered by the night, and<br>
-Guided by the stars.<br>
+Mothered by the night<br>
+And guided by the stars.<br>
 </p><p>
 Upon gales of mighty fury,<br>
-His senses sharp and keen;<br>
+His senses sharp and keen,<br>
 Sailing through the greatest winds,<br>
 That man has ever seen.<br>
 </p><p>
 Armed with the spear of Mars,<br>
-And protected by His shield;<br>
+Protected by His shield,<br>
 Winged afoot with Hermes' sandels,<br>
-Made of imperishable gold.<br>
+With a destiny only Gods could yield.<br>
 </p><p>
 The moonlit sea, the raging storm,<br>
 His will and his domain,<br>
 Bend the sea———oh, God of waves!<br>
-———and guide him through the rain.<br>
+———and lead him through the rain.<br>
  </p><p>
 A disciple of Eros, young God
-Of passion and of total destruction,<br>
+Of passion and total destruction,<br>
 Forever devoted<br>
 To the irrepressible forces of life.<br>
 </p><p>
 Shall no law or word of man stand in his way,<br>
-And may spear and shield of the God of War<br>
-Be his only wealth.<br>
+While spear and shield of the God of War<br>
+Remain his only wealth.<br>
 </p>
