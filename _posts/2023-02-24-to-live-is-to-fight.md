@@ -33,13 +33,12 @@ His will and his domain,<br>
 Bend the sea———oh, God of waves!<br>
 ———and guide him through the rain.<br>
  </p><p>
-A disciple of Eros———young God of passion<br>
-And total destruction———<br>
+A disciple of Eros, young God
+Of passion and of total destruction,<br>
 Forever devoted<br>
 To the irrepressible forces of life.<br>
 </p><p>
 Shall no law or word of man stand in his way,<br>
-And may this be his wealth:<br>
-A spear and shield of the God of war,<br>
-Making him Great King.<br>
+And may spear and shield of the God of War
+Be his only wealth.<br>
 </p>
