@@ -33,7 +33,7 @@ His will and his domain,<br>
 Bend the sea———oh, God of waves!<br>
 ———and lead him through the rain.<br>
  </p><p>
-A disciple of Eros, young God
+A disciple of Eros, young God<br>
 Of passion and total destruction,<br>
 Forever devoted<br>
 To the irrepressible forces of life.<br>
