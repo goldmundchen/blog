@@ -39,6 +39,6 @@ Forever devoted<br>
 To the irrepressible forces of life.<br>
 </p><p>
 Shall no law or word of man stand in his way,<br>
-And may spear and shield of the God of War
+And may spear and shield of the God of War<br>
 Be his only wealth.<br>
 </p>
