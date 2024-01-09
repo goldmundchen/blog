@@ -6,10 +6,10 @@ published: true
 ---
 
 This free verse has been conceived in response to that which has defiled most men in today's society, who seem incurably infected by what is commonly referred to as the 'woke virus' of the mind.<br>
-<p><i>
+<p>
 Understand this: Life is war, young soldier, and you must stand ready to fight. Don't let yourself be led astray of the noble path of man by those unholy forces weakening both spirit and mind.<p>
 There is still hope.<br>
-<hr /></p><p>
+<hr /></p><p><i>
 And off he sails, headed into war,<br>
 Mothered by the night<br>
 And guided by the stars.<br>
