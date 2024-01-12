@@ -7,8 +7,6 @@ published: true
 
 This free verse has been conceived in response to what has infected many men in Western society today, commonly referred to as the 'woke virus' of the mind.<br>
 <p>
-Is that right? 
-<p>
 Understand this: Life is war, young soldier, and you must stand ready to fight. Don't let yourself be led astray of the noble path of man by those unholy forces weakening both spirit and mind.<p>
 There is still hope.<br>
 <hr /></p><p><i>
