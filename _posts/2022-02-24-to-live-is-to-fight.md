@@ -2,7 +2,7 @@
 layout: post
 title: "To live is to fight"
 categories: misc
-published: true
+published: false
 ---
 
 This free verse has been conceived in response to what has infected many men in Western society today, commonly referred to as the 'woke virus' of the mind.<br>
